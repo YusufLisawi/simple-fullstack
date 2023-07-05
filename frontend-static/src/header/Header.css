@@ -1,0 +1,16 @@
+nav {
+	background-color: black;
+	padding: 10px;
+}
+
+nav > div {
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	gap: 10px;
+}
+
+nav a {
+	color: white;
+	text-decoration: none;
+}
